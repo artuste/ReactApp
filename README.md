@@ -1,2 +1,2 @@
 # ReactApp
-Just React.js basic application
+Just React.js basic application.
